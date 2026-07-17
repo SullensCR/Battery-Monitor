@@ -1,0 +1,6 @@
+{
+  "name": "Battery Monitor",
+  "description": "Live battery information, charging sessions, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
